@@ -6,6 +6,20 @@ https://templatemo.com/tm-545-finance-business
 
 */
 
+.singletree {
+  height: auto;
+  width: auto;
+  max-width: 40px;
+  max-height: 40px;
+}
+
+.trees {
+  height: auto;
+  width: auto;
+  max-width: 70px;
+  max-height: 70px;
+}
+
 body {
   font-family: "Poppins", sans-serif;
   overflow-x: hidden;
